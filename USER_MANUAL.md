@@ -1,5 +1,5 @@
 
-# USER MANUAL
+# USER MANUAL                         [READ THE MANUAL CAREFULLY TO FULLY UTILISE THE WEB APPLICATION]
 **************
 
 # Normal User(Non-Prime)
