@@ -6,13 +6,21 @@
 # TECHNOLOGIES USED:
 -------------------
 1.Coding language - PHP core and advance
+
 2.Front End - html/css and bootstrap
+
 3.validations - php
+
 4.text editor -sublime text
+
 5.Operating System - Windows x64
+
 6.Hosting -> Localhost- XAMPP SERVER and Cloudhost - Infinite[Free Version]
+
 7.Database used - phpmyadmin
+
 8.Database query language - MySqli
+
 9.Cloudhost Link - http://bloggersite.42web.io/index.php
 
 # BloggerSite :
