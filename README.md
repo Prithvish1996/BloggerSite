@@ -3,7 +3,17 @@
 # Project Name : BloggerSite
 *******************************************************************
 *******************************************************************
-
+# TECHNOLOGIES USED:
+-------------------
+1.Coding language - PHP core and advance
+2.Front End - html/css and bootstrap
+3.validations - php
+4.text editor -sublime text
+5.Operating System - Windows x64
+6.Hosting -> Localhost- XAMPP SERVER and Cloudhost - Infinite[Free Version]
+7.Database used - phpmyadmin
+8.Database query language - MySqli
+9.Cloudhost Link - http://bloggersite.42web.io/index.php
 
 # BloggerSite :
 ---------------
@@ -16,7 +26,7 @@
    ************************************************************************
           || ---> main root
            | ---> sub root   
-           
+           Open in text editor to see all  the files and folders.
            
                       BloggerSite                                                    
                           ||
@@ -140,7 +150,7 @@
 
 NOTE: PLEASE READ THE USER MANUAL FOR THE WORKING OF THE WEB APPLICATION.
 
-# Contribution
+# DESIGNED BY
 Name - Prithvish Chakraborty
 Mail-id - prithvish.rishi@gmail.com
 
