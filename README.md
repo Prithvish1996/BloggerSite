@@ -140,6 +140,10 @@
 
 NOTE: PLEASE READ THE USER MANUAL FOR THE WORKING OF THE WEB APPLICATION.
 
+# Contribution
+Name - Prithvish Chakraborty
+Mail-id - prithvish.rishi@gmail.com
+
              
     
        
