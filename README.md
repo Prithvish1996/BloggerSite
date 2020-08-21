@@ -93,7 +93,7 @@
         
 # ROLE OF EACH FOLDER :
 ----------------------
-     #1. [assets]- this folder contains all the profile and post related images.It contains two other folders i.e featuredimages & uploads
+     1. [assets]- this folder contains all the profile and post related images.It contains two other folders i.e featuredimages & uploads
      
               ->[featuredimages]-> sub folder of assets folder it contains images,uploaded when you upload a post.It will also contain images when you post something.
                                   It contains dynamic type images i.e the images will be changed once you update image of a post. 
@@ -102,12 +102,12 @@
                              you upload your profile picture.Its contains dynamic type images i.e the images will be changed once you update your profile picture. 
                              
                              
-   #2. [config]- this folder contains all DATABASE CONNECTIVITY queries in php format.
+   2. [config]- this folder contains all DATABASE CONNECTIVITY queries in php format.
    
-   #3. [img]- it contains your default profile picture when you login first time. Later you change it, its contains static file i.e [default_profile.png] which is 
+   3. [img]- it contains your default profile picture when you login first time. Later you change it, its contains static file i.e [default_profile.png] which is 
               recommended not to delete. U can also store other images here to later development of project.
     
-   #3. [inc]- it contains include files which will be useful when you want to add something which is constatnt across whole application.  
+   4. [inc]- it contains include files which will be useful when you want to add something which is constatnt across whole application.  
  
  # ROLE OF EACH FILE : 
 ------------------------
