@@ -91,7 +91,7 @@
     
    #3. [inc]- it contains include files which will be useful when you want to add something which is constatnt across whole application.  
  
- # ROLE OF EACH FILE :  [this is overview later down this page ,each things will be explained in depth.]
+ # ROLE OF EACH FILE : 
 ------------------------
       #1. db.php-               this file contains all the db connectivity query.
       #2. default_profile.php-  the default profile picture.
@@ -111,6 +111,35 @@
       #8. dislike.php-          tracks all dislike operations.
       #8. delete.php-          tracks all delete operations i.e delete a post.
       
+      
+      
+# DEPLOYING PROJECT AT LOCAL HOST
+1. To deploy the project in your local machine first install xampp server by follwoing the link https://www.apachefriends.org/index.html . Download the version
+   suitable for your desktop OS.
+
+2. Now create a database by going through XAMPP documentation.
+
+3. Now in top right corner you will find a option i.e 'import'. Now using that, import the 'blogger.sql' provided with the file.For any query go to https://www.inmotionhosting.com/support/website/databases/import-database-using-phpmyadmin/  .
+
+4. Tables will be created automatically as soon import is succesfull. Note: Delete all the exsisting table details.
+
+5. Now go to config/db/php and do the following:
+                   $server ="localhost";  //localhost name
+                   $user="root";
+                   $password ="";
+                   $dbname="databasename"; //enter your database name which project will access
+
+6. Open XAMPP control panel.
+7. Start APACHE AND MY SQL SERVER. If succesfull the background of the them will be turned to green. Note: ports that your are using should be free. No
+   other hosting services should be using it.
+8.Now store this project folder i.e BloggerSite folder inside ../xampp/htdocs/ . 
+9.Now go to any browser and type url http://localhost/BloggerSite to deploy the project on your browser.
+
+
+# NAVIGATION THROUGH PROJEECT
+
+NOTE: PLEASE READ THE USER MANUAL FOR THE WORKING OF THE WEB APPLICATION.
+
              
     
        
