@@ -160,7 +160,16 @@ NOTE: PLEASE READ THE USER MANUAL FOR THE WORKING OF THE WEB APPLICATION.
 
 # DESIGNED BY
 Name - Prithvish Chakraborty
+
 Mail-id - prithvish.rishi@gmail.com
+
+# IMPORTANT LINKS
+  1. php ldocumentation - https://www.php.net/docs.php
+  
+  2.bootstrap documentation - https://getbootstrap.com/docs/4.1/getting-started/introduction/
+  
+  3.html documentation - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+ 
 
              
     
