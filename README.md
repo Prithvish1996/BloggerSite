@@ -93,19 +93,19 @@
         
 # ROLE OF EACH FOLDER :
 ----------------------
-     1. [assets]- this folder contains all the profile and post related images.It contains two other folders i.e featuredimages & uploads.
-     2. [featuredimages]- sub folder of assets folder it contains images,uploaded when you upload a post.It will also contain images when you post something.
-                                  It contains dynamic type images i.e the images will be changed once you update image of a post.                                 
-3.[uploads]-  sub folder of assets folder it contains images,uploaded when you upload a your profile picture.It will also contain images when
-                             you upload your profile picture.Its contains dynamic type images i.e the images will be changed once you update your profile picture. 
-                             
-                             
-   4. [config]- this folder contains all DATABASE CONNECTIVITY queries in php format.
+   1. assets- this folder contains all the profile and post related images.It contains two other folders i.e featuredimages & uploads.
+
+   2. featuredimages- sub folder of assets folder it contains images,uploaded when you upload a post.It will also contain images when you post something.
+                                  It contains dynamic type images i.e the images will be changed once you update image of a post.  
+                               
+   3.uploads-  sub folder of assets folder it contains images,uploaded when you upload a your profile picture.It will also contain images when
+                             you upload your profile picture.Its contains dynamic type images i.e the images will be changed once you update your profile picture                            
+   4. config- this folder contains all DATABASE CONNECTIVITY queries in php format.
    
-   5. [img]- it contains your default profile picture when you login first time. Later you change it, its contains static file i.e [default_profile.png] which is 
+   5. img- it contains your default profile picture when you login first time. Later you change it, its contains static file i.e [default_profile.png] which is 
               recommended not to delete. U can also store other images here to later development of project.
     
-   6. [inc]- it contains include files which will be useful when you want to add something which is constatnt across whole application.  
+   6. inc- it contains include files which will be useful when you want to add something which is constatnt across whole application.  
  
  # ROLE OF EACH FILE : 
 ------------------------
