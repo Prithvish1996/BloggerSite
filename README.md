@@ -136,7 +136,7 @@
 9.Now go to any browser and type url http://localhost/BloggerSite to deploy the project on your browser.
 
 
-# NAVIGATION THROUGH PROJEECT
+# NAVIGATION THROUGH PROJECT
 
 NOTE: PLEASE READ THE USER MANUAL FOR THE WORKING OF THE WEB APPLICATION.
 
